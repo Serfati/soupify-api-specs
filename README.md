@@ -1,5 +1,5 @@
-# 🥘 Soupify - Server <img src="https://in.bgu.ac.il/marketing/graphics/BGU.sig3-he-en-white.png" height="48px" align="right" />
-![](https://img.shields.io/badge/version-0.1.0-blueviolet)
+# 🥘 Soupify - API Specification  <img src="https://in.bgu.ac.il/marketing/graphics/BGU.sig3-he-en-white.png" height="48px" align="right" />
+![](https://img.shields.io/badge/version-1.1-blueviolet)
 # Description
 This is a backend server API specs for storing recipes and meals we cooked. RestfulAPI for the re-branding project of Engineering-Students-Recipes Company to their new company, **Soupify™**. This project was creating as a group project for Web-Development-Environments course @Ben-Gurion University. 
 
@@ -9,13 +9,14 @@ Base URL: `{your_custom_url}/api`
 
 ## 📃 Documentation
 
-- [OpenApi 3 Specification](https://app.swaggerhub.com/apis-docs/serfatio/Soupify/1.0.0/)
+- [OpenApi 3 Specification](https://app.swaggerhub.com/apis-docs/serfatio/Soupify/1.1/)
 
 ---
 
 ## Development Time
-:rainbow: Front End: Two weeks - until the end of May <br>
-:computer: Back End: Two weeks - until the middle of June
+:computer: Back End: Two weeks - until the end of May<br>
+:rainbow: Front End: Two weeks - until the middle of June 
+
 
 
 ## Team Members:
