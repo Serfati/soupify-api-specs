@@ -16,14 +16,3 @@ Base URL: `{your_custom_url}/api`
 ## Development Time
 :computer: Back End: Two weeks - until the end of May<br>
 :rainbow: Front End: Two weeks - until the middle of June 
-
-
-
-## Team Members:
-
-| Name             | Username                                    | Contact Info              | ID        |
-| ---------------- | ------------------------------------------- | ------------------------- | --------- |
-| _Yarden Levy_    | [YardenLevy](https://github.com/YardenLevy) | YardenLevy@post.bgu.ac.il | 204341580 |
-| _Avihai Serfati_ | [serfati](https://github.com/serfati)       | serfata@post.bgu.ac.il    | 204520803 |
-| _Eitan Fedenko_  | [uspeit](https://github.com/uspeit)         | eitanfe@post.bgu.ac.il    | 319199840 |
-
